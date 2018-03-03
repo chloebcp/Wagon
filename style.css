@@ -1,0 +1,51 @@
+style.css
+body{
+  background: RGB(50,50,50);
+  font-size: 25px;
+  font-family: Roboto;
+}
+p{
+	font-family:roboto;
+	font-size:14px;
+}
+h1{
+  font-family: Roboto;
+  color: #1f9e5b;
+  font-weight: bold;
+  font-size: 16px;
+}
+h2 {
+  font-family: Roboto;
+  color: #121212;
+  font-weight: normal;
+  font-size: 14px;
+}
+a {
+  font-family: Roboto;
+  color: #1f9e5b;
+  font-weight: bold;
+  font-size: 15px;
+}
+a:hover {
+  text-decoration: none;
+  color: #b5b5b5;
+}
+.wonderH2 {
+	color: orange;
+	font-weight: bold;
+}
+#span {
+	color: red;
+	font-weight: bold;
+}
+#banner{
+	padding: 10px;
+	Margin: 5px;
+	background-color: orange;
+}
+#content{
+	/*Flexbox*/
+display:flex;
+align-items:center;
+.ustify-content:center;
+}
